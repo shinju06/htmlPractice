@@ -1,0 +1,44 @@
+body {
+    background-color: darkkhaki !important;
+  }
+  
+  .login-card, .signup-card {
+    width: 400px;
+    background-color: darkorchid;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(253, 255, 114, 0.15);
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .btn-primary {
+    background-color: #ff656d;
+    border: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ff9a60;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border: none;
+    font-weight: bold;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+  }
+  
+  a {
+    color: #4e73df;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }  
